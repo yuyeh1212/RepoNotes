@@ -10,7 +10,7 @@
 </details>
 
 <details>
-<summary>react.md</summary>
+<summary>js.md</summary>
 
 <p>這是2024 JS 直播班主線任務</p>
 
